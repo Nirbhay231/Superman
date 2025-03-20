@@ -1,0 +1,50 @@
+introduction(2-3min)
+---> Manual testing
+---> Java Program
+prime number
+--->odd or even 
+--->fibonocci series
+--->factorial
+--->reverse the number
+--->find duplicate , remove duplicate ,count duplicate by using array
+--->swap the two digits ,zig zag array , merge two array 
+---> finding largest and smallest number
+--->bubble short
+--->reverse String 
+--->Substring input: Manikandan output: Kandan 
+--->count of String input: Manikandan output: M-1,a-3,n-3,k-1,d-1 
+--->separate characters input:mani123@#2&  output: num-1232 , apl-mani ,spl-@#&
+---> array to arrayList , arraylist to array , list to set ,set to list
+
+java --->  theory parts (opps and collection , map) 
+
+automation
+what is automation testing
+selenium architecture ---> selenium client library , browser driver, browser
+webdriver architecture 
+what is locator / Selector
+which one is the fastest locator ? 
+which is a famous or mostly used locator ?
+what is select ,action class
+what is popup ---> child browser ,alert pop, fileUpload 
+how to take ScreenShot
+what is iframe and how to handle 
+what is javaScriptExecutor ?
+what is testNg and feature ?
+what is chronological view of configuration annotation?
+what is dataprovider annotation ?
+what is assert and types ?
+what is pom(page object model)?
+what is Pom.xml (project object model) ?
+what is framework and types of framework in selenium
+---> method driven testing framework(mdt)
+--->keyword driven testing framework(kdt)
+--->data driven testing framework (Ddt)
+--->hybrid driven testing framework
+---> modular driven testing framework
+what is data driven testing framework
+what is component of framework--> baseclass,pom,pom.xml,screenshot,report,fileutility,javautility,listeners,suitefile @test etc 
+what is CI and CD pipeline ? 
+what is shadow root element ?
+
+
